@@ -49,7 +49,7 @@
 | Параметр | Значение | Источник | Ссылка |
 |----------|----------|----------|--------|
 | AOV / Распределение | 1,770 ₽ / 19% daily... | ЮKassa (май 2025) | [retail.ru](https://www.retail.ru/news/kazhdyy-pyatyy-rossiyanin-zakazyvaet-produkty-onlayn-ezhednevno-issledovanie-yuk-29-maya-2025-265237/) |
-| Duolingo widget | +50-60% к активности | Duolingo Blog (2023) | [blog.duolingo.com](https://blog.duolingo.com/widget-feature/) [duo gamification] (https://www.strivecloud.io/blog/gamification-examples-boost-user-retention-duolingo) |
+| Duolingo widget | +50-60% к активности | Duolingo Blog (2023) | [blog.duolingo.com](https://blog.duolingo.com/widget-feature/) [duo gamification](https://www.strivecloud.io/blog/gamification-examples-boost-user-retention-duolingo) |
 | Виджеты → retention | +15-30% | MindK / Localytics (2025) | [mindk.com](https://www.mindk.com/blog/how-to-improve-user-engagement-in-your-app/) |
 | Parasocial relationships | +20-40% к лояльности | ScienceDirect / PMC (2021-2023) | [scienceirect.com](https://www.sciencedirect.com/science/article/pii/S2772503023000178) |
 | Реальные кейсы | +25-40% LTV | Duolingo, Calm, Headspace | Официальные блоги + исследования |
